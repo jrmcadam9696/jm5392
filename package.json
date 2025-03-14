@@ -1,4 +1,5 @@
 {
+  "homepage": "http://jrmcadam9696.github.io/jm5392",
   "name": "info655-assignment4",
   "private": true,
   "version": "0.0.0",
@@ -22,10 +23,9 @@
     }
   },
   "dependencies": {
+    "home": "https://github.com/jrmcadam9696/jm5392",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "home": "https://github.com/jrmcadam9696/jm5392"
-
+    "react-dom": "^19.0.0"
   },
   "devDependencies": {
     "@babel/preset-env": "^7.26.9",
